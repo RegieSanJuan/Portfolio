@@ -10,7 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "My Portfolio - Roblox Themed",
   description: "Developer Portfolio with Roblox Theme",
-  generator: "v0.app",
   icons: {
     icon: [
       {
